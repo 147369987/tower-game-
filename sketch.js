@@ -126,9 +126,3 @@ function mouseReleased()
   rope.fly();
 }
 
-//create keyPressed function here
-function keyPressed()
-{
-
-
-
