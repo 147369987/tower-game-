@@ -129,11 +129,6 @@ function mouseReleased()
 //create keyPressed function here
 function keyPressed()
 {
-  if(keyCode===82)
-  {
-    Matter.Body.setPosition(ballPlay.body,{x:140,y:315});
-    rope.attacher(ballPlay.body);
-  }
-}
+
 
 
